@@ -11,7 +11,7 @@ class Vehicle {
   }
 }
 
-// คลาสย่อย Car
+// คลาสย่อย Carสร้างแยก
 class Car extends Vehicle {
   int numOfDoors;
 
